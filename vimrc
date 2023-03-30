@@ -27,6 +27,9 @@ set copyindent
 " highlight the current line
 set cursorline
 
+" highlight the current column
+set cursorcolumn
+
 " replace tabs with spaces
 set expandtab
 
